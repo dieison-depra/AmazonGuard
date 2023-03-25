@@ -1,0 +1,8 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Dieison Antonello Depra
+MIDlet-Jar-URL: AmazonGuard.jar
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
+MIDlet-1: AmazonGuard,amazonguard/res/IconAmazonGuard.png,amazonguard.AmazonGuardMIDlet
+MIDlet-Name: AmazonGuard
+MIDlet-Jar-Size: 33898

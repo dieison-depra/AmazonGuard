@@ -1,0 +1,49 @@
+{0001}Novo Jogo
+{0002}Opções
+{0003}Instrução
+{0004}Continuar
+{0005}SAIR
+{0006}Sobre
+{0007}Voltar
+{0008}Editar 
+{0009}Sair 
+{0010}Modificar
+{0011}Off 
+{0012}On   
+{0013}Salvar
+{0014}Versão
+{0015}Som  
+{0016}Vibração
+{0017}Luz Negra
+{0018}Desafio
+{0019}Marque um:
+{0020}Fácil
+{0021}Medio
+{0022}Difícil
+{0023}Recurso não encontrado!
+{0024}Jogador Destruído
+{0025}Inimigo Destruído
+{0026}Vidas 
+{0027}Pontos:
+{0028}Game Over!
+{0029}Fim de Jogo!
+{0030}Você ganhou!
+{0031}Você perdeu!
+{0032}O objetivo do jogo é combater os aviões inimigos que vão aparecendo.
+Essas aeronaves inimigas são aviões de traficantes e/ou invasores do espaço áreo brasileiro.
+Destrua-os e ajude a manter a soberania do território nacional e a combater o tráfico internacional de drogas.\n
+Sua pontuação vai aumentando conforme o número de inimigos que vc vai abatendo.
+Quanto vc colidir com algum inimigo ou for atingido por um deles você perde uma vida.\n
+O jogo pode terminar em três situações distintas, das quais, nas duas primeiras vc perde e na última vc vence:\n
+1) Se o seu número de vidas ficar igual a 0 (zero);\n
+2) Se vc deixar 30, 60 ou 90 iminigos escapem sem serem destruídos (de acordo com o grau de dificuldade selecionado!);\n
+3) Se além de evitar que as duas situações anteriores ocorram vc conseguir vencer o duelo com o chefão da fase vc será vitorioso.\n
+Para interagir com o jogo utilize as teclas de direção e a tecla de disparo (tiros). No entanto, essas teclas podem variar de funcionalidades entre dispositivos diferentes. Abaixo apresenta-se a configuração mais comun para essas teclas:\n
+Tecla Ação\n
+4: movimento para esquerda\n
+6: movimento para direita\n
+8: movimento para cima\n
+2: movimento para baixo\n
+5: dispara um tiro\n
+{0033}História do Jogo\n\n.
+Aqui neste ponto deve ser descrita toda a história do jogo.

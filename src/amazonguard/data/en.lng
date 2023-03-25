@@ -1,0 +1,45 @@
+{0001}New game
+{0002}Options
+{0003}Instructions
+{0004}Continue
+{0005}EXIT
+{0006}About
+{0007}Back 
+{0008}Edit 
+{0009}Exit 
+{0010}Modify
+{0011}Off 
+{0012}On   
+{0013}Save
+{0014}Version
+{0015}Sound  
+{0016}Vibration
+{0017}BlackLight
+{0018}Challenge
+{0019}It selects one:
+{0020}Easy
+{0021}Medium
+{0022}Hard
+{0023}Resource not found!
+{0024}Player Destryed
+{0025}Eminy Destroyed
+{0026}Lives 
+{0027}Score:
+{0028}Game Over!
+{0029}Finished Game!
+{0030}You won!
+{0031}You lost! 
+{0032}The objective of the game is for you to get points before the blocks do.
+Destroying blocks earns you points.
+The blocks get points for flying off the screen, and extra points for hitting or destroying the base. \n\n
+Not all blocks are equally easy to destroy. 
+The blocks increase in difficulty (and points value) as follows: empty dark, single white diagonal line, 
+double white diagonal lines, empty white, single black diagonal line, and double black diagonal lines.\n\n
+Your score and remaining lives are shown in the upper left hand corner of the screen. The blocks' score is shown in the
+lower right hand corner of the screen. The blocks can win by you do, or by destroying your base until you have no lives left.\n\n
+The default keys to use for the up, down, left, right and fire game actions are:  respectively. This can vary in different phone models.\n\n
+In the game screen, pressing an appropriate softkey causes the game to pause. Use Continue to return to the game in progress. 
+Game play will resume when you press a non-softkey.\n\n
+{0033}A gauge may sometimes be shown in the upper right corner of the screen. 
+It is used to indicate when the base's laser cannon is overheating. The cannon may overheat if you continuously hold down the game's 'fire' button for too long. 
+When this occurs, the cannon can not be fired again, until it has cooled down (i.e. until the gauge empties).
